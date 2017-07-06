@@ -1,0 +1,27 @@
+{
+  "name": "intel8080",
+  "version": "1.0.0",
+  "description": "A Typescript Intel 8080 emulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedre191/intel8080.git"
+  },
+  "author": "tedre191",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedre191/intel8080/issues"
+  },
+  "homepage": "https://github.com/tedre191/intel8080#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "raw-loader": "^0.5.1",
+    "ts-loader": "^2.2.2",
+    "typescript": "^2.4.1",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
